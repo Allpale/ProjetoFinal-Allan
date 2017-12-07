@@ -35,15 +35,15 @@ namespace Projeto_final
                         partida.validarPosicaoDeDestino(origem, destino);
 
                         partida.realizaJogada(origem, destino);
-                    }                                 
+                    }
                     catch (TabuleiroException e)
                     {
                         Console.WriteLine(e.Message);
                         Console.ReadLine();
                     }
-             }
-
-                Tela.imprimirTabuleiro(partida.tab);
+                    Console.Clear();
+                    Tela.imprimirPartida(partida);
+                }
             }
             catch (TabuleiroException e)
             {
