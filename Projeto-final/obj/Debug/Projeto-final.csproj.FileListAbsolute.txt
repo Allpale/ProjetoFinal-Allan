@@ -4,3 +4,13 @@ C:\Users\aluno\Desktop\Projeto-final\Projeto-final\obj\Debug\Projeto-final.pdb
 C:\Users\aluno\Desktop\Projeto-final\Projeto-final\obj\Debug\Projeto-final.csprojResolveAssemblyReference.cache
 C:\Users\aluno\Desktop\Projeto-final\Projeto-final\bin\Debug\Projeto-final.exe
 C:\Users\aluno\Desktop\Projeto-final\Projeto-final\bin\Debug\Projeto-final.pdb
+D:\Projeto-final\Projeto-final\bin\Debug\Projeto-final.exe.config
+D:\Projeto-final\Projeto-final\obj\Debug\Projeto-final.exe
+D:\Projeto-final\Projeto-final\obj\Debug\Projeto-final.pdb
+D:\Projeto-final\Projeto-final\obj\Debug\Projeto-final.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Projeto-final-2\Projeto-final\bin\Debug\Projeto-final.exe.config
+C:\Users\aluno\Desktop\Projeto-final-2\Projeto-final\obj\Debug\Projeto-final.exe
+C:\Users\aluno\Desktop\Projeto-final-2\Projeto-final\obj\Debug\Projeto-final.pdb
+C:\Users\aluno\Desktop\Projeto-final-2\Projeto-final\bin\Debug\Projeto-final.exe
+C:\Users\aluno\Desktop\Projeto-final-2\Projeto-final\bin\Debug\Projeto-final.pdb
+C:\Users\aluno\Desktop\Projeto-final-2\Projeto-final\obj\Debug\Projeto-final.csprojResolveAssemblyReference.cache
